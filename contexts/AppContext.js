@@ -52,11 +52,16 @@ const legendText = {
 
 export function AppProvider({ children }) {
   const [language, setLanguage] = useState("EN");
-  const [darkMode, setDarkMode] = useState(false);
+  const [darkMode, setDarkMode] = useState(() => {
+    if (typeof window !== "undefined") {
+      const saved = localStorage.getItem("darkMode");
+      return saved !== null ? saved === "true" : true;
+    }
+    return true;
+  });
   const router = useRouter();
 
   useEffect(() => {
-    // Sprache aus URL ableiten, falls vorhanden
     const urlLang = router.pathname.split("/")[1];
 
     const cookieLang = document.cookie

@@ -1,37 +1,44 @@
-import { useState, useEffect } from "react";
+// pages/feed.js
+import Navbar from "../components/Navbar";
+import { useAppContext } from "../contexts/AppContext";
 
-export default function TestScrollPage() {
-  const [showButton, setShowButton] = useState(false);
-
-  useEffect(() => {
-    const handleScroll = () => {
-      setShowButton(window.scrollY > 100);
-    };
-    window.addEventListener("scroll", handleScroll);
-    return () => window.removeEventListener("scroll", handleScroll);
-  }, []);
-
-  const scrollToTop = () => {
-    document.documentElement.scrollTo({ top: 0, behavior: "smooth" });
-  };
+export default function FeedPage() {
+  const { darkMode } = useAppContext();
 
   return (
-<div
-  onClick={() => alert("click funktioniert")}
-  style={{
-    position: "fixed",
-    right: "0",
-    bottom: "0",
-    backgroundColor: "red",
-    width: "100px",
-    height: "100px",
-    zIndex: 99999,
-    cursor: "pointer"
-  }}
->
-  Klick mich
-</div>
-
-
+    <div style={{
+      backgroundColor: darkMode ? "#121212" : "#ffffff",
+      color: darkMode ? "#e0e0e0" : "#222",
+      minHeight: "100vh",
+      margin: 0,
+      padding: 0,
+      fontFamily: "Arial, sans-serif"
+    }}>
+      <Navbar />
+      <div style={{
+        position: "relative",
+        width: "100%",
+        height: "66vh",
+        backgroundImage: "url('/images/roadpic.jpg')",
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        display: "flex",
+        justifyContent: "center",
+        alignItems: "flex-start"
+      }}>
+        <h1 style={{
+          marginTop: "40px",
+          backgroundColor: "rgba(0,0,0,0.5)",
+          color: "#fff",
+          padding: "16px 24px",
+          borderRadius: "12px",
+          fontSize: "28px",
+          textAlign: "center",
+          maxWidth: "90%"
+        }}>
+          coming soon – now I'm going for a ride
+        </h1>
+      </div>
+    </div>
   );
 }
