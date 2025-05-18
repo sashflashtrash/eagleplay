@@ -1,0 +1,62 @@
+@import url('leaflet/dist/leaflet.css');
+@import url('leaflet-draw/dist/leaflet.draw.css');
+
+
+/* Reset & Darkmode-Unterstützung */
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #121212;   /* dunkler Hintergrund */
+  color: #e0e0e0;              /* helle Schrift */
+  font-family: Arial, sans-serif;
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+  box-sizing: border-box;
+}
+
+* {
+  box-sizing: inherit;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.scrollTopButton {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  width: 50px;
+  height: 50px;
+  background-color: #0070f3;
+  color: white;
+  font-size: 22px;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.3s;
+}
+
+/* Nur auf Desktop anzeigen */
+@media (max-width: 768px) {
+  .desktopOnly {
+    display: none !important;
+  }
+}
+
+
+.scrollTopButton:hover {
+  background-color: #005bb5;
+}
+@media (max-width: 768px) {
+  .desktopOnly {
+    display: none !important;
+  }
+}

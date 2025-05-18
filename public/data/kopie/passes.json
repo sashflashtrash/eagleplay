@@ -1,0 +1,593 @@
+[
+  {
+    "name": "Albula Pass",
+    "countries": [
+      "🇨🇭"
+    ],
+    "status": "closed",
+    "canton": "GR",
+    "length": 30,
+    "height": 2312,
+    "opens": "Ende Mai",
+    "closes": "Mitte Oktober",
+    "description": {
+      "DE": "Strecke mit Blick auf Viadukte der Rhätischen Bahn.",
+      "EN": "Route with views of RhB viaducts.",
+      "IT": "Percorso con vista sui viadotti della ferrovia retica.",
+      "FR": "Route avec vue sur les viaducs du chemin de fer rhétique."
+    },
+    "hidden": false,
+    "marker": [
+      46.5823,
+      9.8432
+    ],
+    "coords": [
+      [
+        46.581931,
+        9.920054
+      ],
+      [
+        46.582639,
+        9.908552
+      ],
+      [
+        46.588597,
+        9.890785
+      ],
+      [
+        46.588125,
+        9.864693
+      ],
+      [
+        46.574439,
+        9.808044
+      ],
+      [
+        46.582108,
+        9.797916
+      ],
+      [
+        46.582226,
+        9.787102
+      ],
+      [
+        46.586002,
+        9.781609
+      ],
+      [
+        46.595911,
+        9.756546
+      ],
+      [
+        46.605494,
+        9.755645
+      ],
+      [
+        46.613749,
+        9.758821
+      ],
+      [
+        46.617316,
+        9.756417
+      ],
+      [
+        46.619143,
+        9.753156
+      ],
+      [
+        46.624154,
+        9.750152
+      ]
+    ]
+  },
+  {
+    "name": "Berninapass",
+    "countries": [
+      "🇨🇭"
+    ],
+    "status": "open",
+    "canton": "GR",
+    "length": 50,
+    "height": 2328,
+    "opens": "Ganzjährig offen",
+    "closes": "–",
+    "description": {
+      "DE": "Verbindet das Engadin mit dem Puschlav – ganzjährig befahrbar, auch mit der Bernina-Bahn.",
+      "EN": "Connects Engadin with Val Poschiavo – open year-round, also served by the Bernina Railway.",
+      "IT": "Collega l'Engadina con la Valposchiavo – aperto tutto l'anno, anche con il trenino Bernina.",
+      "FR": "Relie l'Engadine à la Val Poschiavo – ouvert toute l'année, également desservi par le train Bernina."
+    }
+  },
+  {
+    "name": "Col de la Croix",
+    "countries": [
+      "🇨🇭"
+    ],
+    "status": "closed",
+    "canton": "VD",
+    "length": 22,
+    "height": 1778,
+    "opens": "Mai",
+    "closes": "November",
+    "description": {
+      "DE": "Panoramareiche Strecke mit Blick auf die Waadtländer Alpen.",
+      "EN": "Scenic route with views of the Vaud Alps.",
+      "IT": "Percorso panoramico con vista sulle Alpi del Vaud.",
+      "FR": "Route panoramique avec vue sur les Alpes vaudoises."
+    }
+  },
+  {
+    "name": "Col de la Forclaz",
+    "countries": [
+      "🇨🇭",
+      "🇫🇷"
+    ],
+    "status": "closed",
+    "canton": "VS",
+    "length": 15,
+    "height": 1526,
+    "opens": "Mai",
+    "closes": "November",
+    "description": {
+      "DE": "Verbindet Martigny mit Chamonix – wichtiger Übergang zwischen der Schweiz und Frankreich.",
+      "EN": "Connects Martigny with Chamonix – important pass between Switzerland and France.",
+      "IT": "Collega Martigny con Chamonix – importante passo tra Svizzera e Francia.",
+      "FR": "Relie Martigny à Chamonix – col important entre la Suisse et la France."
+    }
+  },
+  {
+    "name": "Col du Pillon",
+    "countries": [
+      "🇨🇭"
+    ],
+    "status": "closed",
+    "canton": "VD/BE",
+    "length": 20,
+    "height": 1546,
+    "opens": "Mai",
+    "closes": "November",
+    "description": {
+      "DE": "Verbindet Les Diablerets mit Gstaad – bekannt für das Glacier 3000 Skigebiet.",
+      "EN": "Connects Les Diablerets with Gstaad – known for the Glacier 3000 ski area.",
+      "IT": "Collega Les Diablerets con Gstaad – noto per l'area sciistica Glacier 3000.",
+      "FR": "Relie Les Diablerets à Gstaad – connu pour le domaine skiable Glacier 3000."
+    }
+  },
+  {
+    "name": "Flüela Pass",
+    "countries": [
+      "🇨🇭"
+    ],
+    "status": "open",
+    "canton": "GR",
+    "length": 27,
+    "height": 0,
+    "opens": "Juni",
+    "closes": "Oktober",
+    "description": {
+      "DE": "Verbindet Davos mit dem Unterengadin – beliebt bei Bikern.",
+      "EN": "Connects Davos with Lower Engadin – popular among bikers.",
+      "IT": "Collega Davos con l'Engadina Bassa – amato dai motociclisti.",
+      "FR": "Relie Davos à la Basse-Engadine – apprécié des motards."
+    }
+  },
+  {
+    "name": "Furkapass",
+    "countries": [
+      "🇨🇭"
+    ],
+    "status": "closed",
+    "canton": "UR/VS",
+    "length": 28,
+    "height": 2429,
+    "opens": "Mitte Juni",
+    "closes": "Ende Oktober",
+    "description": {
+      "DE": "Verbindet das Urserental mit dem Rhonetal – bekannt durch James Bond.",
+      "EN": "Connects the Urseren Valley with the Rhône Valley – famous from James Bond.",
+      "IT": "Collega la valle di Urseren con la valle del Rodano – famoso grazie a James Bond.",
+      "FR": "Relie la vallée d'Urseren à celle du Rhône – célèbre grâce à James Bond."
+    },
+    "hidden": false
+  },
+  {
+    "name": "Glaubenbergpass",
+    "countries": [
+      "🇨🇭"
+    ],
+    "status": "closed",
+    "canton": "OW/LU",
+    "length": 30,
+    "height": 1543,
+    "opens": "Mai",
+    "closes": "November",
+    "description": {
+      "DE": "Verbindet Entlebuch mit Sarnen – beliebte Route für Motorradfahrer.",
+      "EN": "Connects Entlebuch with Sarnen – popular route for motorcyclists.",
+      "IT": "Collega Entlebuch con Sarnen – percorso popolare per motociclisti.",
+      "FR": "Relie Entlebuch à Sarnen – itinéraire populaire pour les motards."
+    }
+  },
+  {
+    "name": "Glaubenbielenpass",
+    "countries": [
+      "🇨🇭"
+    ],
+    "status": "closed",
+    "canton": "OW/LU",
+    "length": 25,
+    "height": 1611,
+    "opens": "Mai",
+    "closes": "November",
+    "description": {
+      "DE": "Scenic route between Giswil and Sörenberg – offers panoramic views.",
+      "EN": "Scenic route between Giswil and Sörenberg – offers panoramic views.",
+      "IT": "Strada panoramica tra Giswil e Sörenberg – offre viste panoramiche.",
+      "FR": "Route panoramique entre Giswil et Sörenberg – offre des vues panoramiques."
+    }
+  },
+  {
+    "name": "Gotthardpass",
+    "countries": [
+      "🇨🇭"
+    ],
+    "status": "closed",
+    "canton": "UR/TI",
+    "length": 26,
+    "height": 2107,
+    "opens": "bereits offen",
+    "closes": "ab November möglich",
+    "description": {
+      "DE": "Kopfsteinpflaster der alten Tremola – ein historisches Highlight.",
+      "EN": "Cobblestones of the old Tremola – a historic highlight.",
+      "IT": "Ciottoli della vecchia Tremola – un punto culminante storico.",
+      "FR": "Pavés de l'ancienne Tremola – un point fort historique."
+    }
+  },
+  {
+    "name": "Grimselpass",
+    "countries": [
+      "🇨🇭"
+    ],
+    "status": "open",
+    "canton": "BE/VS",
+    "length": 26,
+    "height": 2164,
+    "opens": "Bereits geöffnet",
+    "closes": "ab November",
+    "description": {
+      "DE": "Historischer Übergang zwischen Berner Oberland und Wallis.",
+      "EN": "Historic crossing between Bernese Oberland and Valais.",
+      "IT": "Attraversamento storico tra Oberland bernese e Vallese.",
+      "FR": "Passage historique entre l'Oberland bernois et le Valais."
+    }
+  },
+  {
+    "name": "Grosser St. Bernhard",
+    "countries": [
+      "🇨🇭",
+      "🇮🇹"
+    ],
+    "status": "closed",
+    "canton": "VS",
+    "length": 45,
+    "height": 2469,
+    "opens": "Juni",
+    "closes": "November",
+    "description": {
+      "DE": "Alpenübergang mit Hospiz, bekannt durch Bernhardinerhunde.",
+      "EN": "Alpine crossing with hospice, famous for Saint Bernard dogs.",
+      "IT": "Passo alpino con ospizio, famoso per i cani San Bernardo.",
+      "FR": "Col alpin avec hospice, célèbre pour les chiens Saint-Bernard."
+    }
+  },
+  {
+    "name": "Ibergeregg",
+    "countries": [
+      "🇨🇭"
+    ],
+    "status": "open",
+    "canton": "SZ",
+    "length": 14,
+    "height": 1406,
+    "opens": "Ganzjährig offen",
+    "closes": "–",
+    "description": {
+      "DE": "Verbindet Schwyz mit Oberiberg – beliebte Strecke für Motorradfahrer.",
+      "EN": "Connects Schwyz with Oberiberg – popular route for motorcyclists.",
+      "IT": "Collega Schwyz con Oberiberg – percorso popolare per motociclisti.",
+      "FR": "Relie Schwyz à Oberiberg – itinéraire populaire pour les motards."
+    }
+  },
+  {
+    "name": "Jaunpass",
+    "countries": [
+      "🇨🇭"
+    ],
+    "status": "closed",
+    "canton": "BE/FR",
+    "length": 20,
+    "height": 1508,
+    "opens": "Mai",
+    "closes": "November",
+    "description": {
+      "DE": "Verbindet das Simmental mit dem Greyerzerland – beliebte Strecke für Radfahrer.",
+      "EN": "Connects Simmental with Gruyère region – popular route for cyclists.",
+      "IT": "Collega Simmental con la regione di Gruyère – percorso popolare per ciclisti.",
+      "FR": "Relie le Simmental à la région de Gruyère – itinéraire populaire pour les cyclistes."
+    }
+  },
+  {
+    "name": "Julier Pass",
+    "countries": [
+      "🇨🇭"
+    ],
+    "status": "open",
+    "canton": "GR",
+    "length": 36,
+    "height": 0,
+    "opens": "ganzjährig offen",
+    "closes": "–",
+    "description": {
+      "DE": "Verbindung nach St. Moritz – regelmäßig geräumt im Winter.",
+      "EN": "Connection to St. Moritz – regularly cleared in winter.",
+      "IT": "Collegamento con St. Moritz – sgomberato regolarmente in inverno.",
+      "FR": "Connexion à Saint-Moritz – régulièrement déneigée en hiver."
+    }
+  },
+  {
+    "name": "Klausen Pass",
+    "countries": [
+      "🇨🇭"
+    ],
+    "status": "closed",
+    "canton": "UR/GL",
+    "length": 21,
+    "height": 0,
+    "opens": "Anfang Juni",
+    "closes": "Ende Oktober",
+    "description": {
+      "DE": "Kurvige Verbindung vom Schächental ins Glarnerland.",
+      "EN": "Winding route from the Schächen Valley into Glarus.",
+      "IT": "Percorso tortuoso dalla valle di Schächen al Glarnerland.",
+      "FR": "Route sinueuse de la vallée de Schächen au Glarnerland."
+    },
+    "hidden": false
+  },
+  {
+    "name": "Lukmanierpass",
+    "countries": [
+      "🇨🇭"
+    ],
+    "status": "open",
+    "canton": "GR/TI",
+    "length": 38,
+    "height": 1917,
+    "opens": "Mai",
+    "closes": "November",
+    "description": {
+      "DE": "Verbindet die Surselva mit der Leventina – beliebte Route im Sommer.",
+      "EN": "Connects Surselva with Leventina – popular summer route.",
+      "IT": "Collega la Surselva con la Leventina – percorso estivo molto frequentato.",
+      "FR": "Relie la Surselva à la Léventine – itinéraire prisé en été."
+    }
+  },
+  {
+    "name": "Maloja Pass",
+    "countries": [
+      "🇨🇭"
+    ],
+    "status": "open",
+    "canton": "GR",
+    "length": 32,
+    "height": 1815,
+    "opens": "Ganzjährig offen",
+    "closes": "–",
+    "description": {
+      "DE": "Verbindet das Engadin mit dem Bergell – ganzjährig geräumt.",
+      "EN": "Connects Engadin with Bergell – cleared all year round.",
+      "IT": "Collega l'Engadina con la Bregaglia – sgomberato tutto l'anno.",
+      "FR": "Relie l'Engadine au Bergell – dégagé toute l'année."
+    }
+  },
+  {
+    "name": "Marchairuz-Pass",
+    "countries": [
+      "🇨🇭"
+    ],
+    "status": "open",
+    "canton": "VD",
+    "length": 21,
+    "height": 1447,
+    "opens": "Ganzjährig offen",
+    "closes": "–",
+    "description": {
+      "DE": "Jurapass mit Verbindung zwischen dem Genferseegebiet und dem Vallée de Joux.",
+      "EN": "Jura pass connecting Lake Geneva region and Vallée de Joux.",
+      "IT": "Passo del Giura tra il Lago di Ginevra e la Vallée de Joux.",
+      "FR": "Col jurassien entre la région du Léman et la Vallée de Joux."
+    }
+  },
+  {
+    "name": "Moosalp",
+    "countries": [
+      "🇨🇭"
+    ],
+    "status": "closed",
+    "canton": "VS",
+    "length": 18,
+    "height": 2048,
+    "opens": "Juni",
+    "closes": "Oktober",
+    "description": {
+      "DE": "Verbindet das Mattertal mit dem Turtmanntal – bietet beeindruckende Ausblicke.",
+      "EN": "Connects Mattertal with Turtmanntal – offers impressive views.",
+      "IT": "Collega la Mattertal con la Turtmanntal – offre viste impressionanti.",
+      "FR": "Relie la vallée de Matter à la vallée de Turtmann – offre des vues impressionnantes."
+    }
+  },
+  {
+    "name": "Nufenenpass",
+    "countries": [
+      "🇨🇭"
+    ],
+    "status": "closed",
+    "canton": "VS/TI",
+    "length": 37,
+    "height": 2478,
+    "opens": "Ende Juni",
+    "closes": "Oktober",
+    "description": {
+      "DE": "Höchster vollständig in der Schweiz gelegener Pass.",
+      "EN": "Highest pass located entirely in Switzerland.",
+      "IT": "Il passo più alto situato interamente in Svizzera.",
+      "FR": "Le col le plus élevé situé entièrement en Suisse."
+    }
+  },
+  {
+    "name": "Oberalppass",
+    "countries": [
+      "🇨🇭"
+    ],
+    "status": "closed",
+    "canton": "UR/GR",
+    "length": 33,
+    "height": 2044,
+    "opens": "Mai",
+    "closes": "Oktober",
+    "description": {
+      "DE": "Verbindung zwischen Andermatt und Disentis – mit Leuchtturm auf dem Scheitelpunkt.",
+      "EN": "Connection between Andermatt and Disentis – with lighthouse at the summit.",
+      "IT": "Collegamento tra Andermatt e Disentis – con faro sul punto più alto.",
+      "FR": "Connexion entre Andermatt et Disentis – avec phare au sommet."
+    }
+  },
+  {
+    "name": "Ofenpass",
+    "countries": [
+      "🇨🇭"
+    ],
+    "status": "open",
+    "canton": "GR",
+    "length": 35,
+    "height": 2149,
+    "opens": "Ganzjährig offen",
+    "closes": "–",
+    "description": {
+      "DE": "Verbindet das Engadin mit dem Val Müstair – Teil des Schweizerischen Nationalparks.",
+      "EN": "Connects Engadin with Val Müstair – part of the Swiss National Park.",
+      "IT": "Collega l'Engadina con la Val Müstair – parte del Parco Nazionale Svizzero.",
+      "FR": "Relie l'Engadine à la Val Müstair – partie du Parc national suisse."
+    }
+  },
+  {
+    "name": "San Bernardinopass",
+    "countries": [
+      "🇨🇭"
+    ],
+    "status": "closed",
+    "canton": "GR",
+    "length": 29,
+    "height": 2065,
+    "opens": "Juni",
+    "closes": "Ende Oktober",
+    "description": {
+      "DE": "Kurviger Übergang mit Tunnelführung parallel zur alten Straße.",
+      "EN": "Curvy pass with tunnel parallel to the old road.",
+      "IT": "Passaggio tortuoso con galleria parallela alla vecchia strada.",
+      "FR": "Passage sinueux avec tunnel parallèle à l'ancienne route."
+    }
+  },
+  {
+    "name": "Sattelegg",
+    "countries": [
+      "🇨🇭"
+    ],
+    "status": "open",
+    "canton": "SZ",
+    "length": 12,
+    "height": 1190,
+    "opens": "Ganzjährig offen",
+    "closes": "–",
+    "description": {
+      "DE": "Verbindet Siebnen mit Willerzell – bietet schöne Ausblicke auf den Zürichsee.",
+      "EN": "Connects Siebnen with Willerzell – offers beautiful views of Lake Zurich.",
+      "IT": "Collega Siebnen con Willerzell – offre splendide viste sul Lago di Zurigo.",
+      "FR": "Relie Siebnen à Willerzell – offre de belles vues sur le lac de Zurich."
+    }
+  },
+  {
+    "name": "Simplonpass",
+    "countries": [
+      "🇨🇭"
+    ],
+    "status": "open",
+    "canton": "VS",
+    "length": 42,
+    "height": 2005,
+    "opens": "ganzjährig offen",
+    "closes": "–",
+    "description": {
+      "DE": "Verbindung ins italienische Domodossola – mit Galerie-Tunnels.",
+      "EN": "Connection to Italian Domodossola – with gallery tunnels.",
+      "IT": "Collegamento con Domodossola in Italia – con gallerie.",
+      "FR": "Connexion à Domodossola en Italie – avec tunnels en galerie."
+    }
+  },
+  {
+    "name": "Splügenpass",
+    "countries": [
+      "🇨🇭",
+      "🇮🇹"
+    ],
+    "status": "open",
+    "canton": "GR",
+    "length": 30,
+    "height": 2115,
+    "opens": "Juni",
+    "closes": "Oktober",
+    "description": {
+      "DE": "Historische Verbindung von Graubünden ins italienische Chiavenna.",
+      "EN": "Historic route from Graubünden to Chiavenna in Italy.",
+      "IT": "Collegamento storico dai Grigioni a Chiavenna.",
+      "FR": "Route historique des Grisons vers Chiavenna en Italie."
+    }
+  },
+  {
+    "name": "Susten Pass",
+    "countries": [
+      "🇨🇭"
+    ],
+    "status": "closed",
+    "canton": "UR/BE",
+    "length": 27,
+    "height": 0,
+    "opens": "Anfang Juni",
+    "closes": "Mitte Oktober",
+    "description": {
+      "DE": "Moderne Bergstraße mit Tunneln und Blick auf den Steingletscher.",
+      "EN": "Modern alpine road with tunnels and view of the Steingletscher.",
+      "IT": "Strada alpina moderna con gallerie e vista sul ghiacciaio di Stein.",
+      "FR": "Route alpine moderne avec tunnels et vue sur le glacier de Stein."
+    }
+  },
+  {
+    "name": "Umbrailpass",
+    "countries": [
+      "🇨🇭",
+      "🇮🇹"
+    ],
+    "status": "closed",
+    "canton": "GR",
+    "length": 13,
+    "height": 2501,
+    "opens": "Juni",
+    "closes": "Ende Oktober",
+    "description": {
+      "DE": "Höchster asphaltierter Pass der Schweiz – Zufahrt zum Stilfserjoch.",
+      "EN": "Highest paved pass in Switzerland – access to the Stelvio.",
+      "IT": "Il passo asfaltato più alto della Svizzera – accesso allo Stelvio.",
+      "FR": "Le col goudronné le plus élevé de Suisse – accès au Stelvio."
+    }
+  }
+]
