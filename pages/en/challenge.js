@@ -1,6 +1,6 @@
 // pages/feed.js
-import Navbar from "../components/Navbar";
-import { useAppContext } from "../contexts/AppContext";
+import Navbar from "../../components/Navbar";
+import { useAppContext } from "../../contexts/AppContext";
 
 export default function FeedPage() {
   const { darkMode } = useAppContext();
